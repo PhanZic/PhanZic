@@ -3,12 +3,11 @@
 - 🌱 I’m currently learning more C#, JavaScript, Lua & kali Linux
 - 📫 How to reach me: Discord PhanZic#0441
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=PhanZic&theme=highcontrast&show_icons=true&count_private=true)
-[![Top languages](https://github-readme-stats.vercel.app/api?username=PhanZic)](https://github.com/PhanZic/github-readme-stats)
+![Github stats](https://github-readme-stats.vercel.app/api?username=PhanZic&theme=tokyonight&show_icons=true&count_private=true)
 
 ## My Repos 
 [![Token Grabber](https://github-readme-stats.vercel.app/api/pin/?username=PhanZic&repo=Discord-Token-Grabber&show_owner=true)](https://github.com/PhanZic/Discord-Token-Grabber)
-[![Kahoot Bot](https://github-readme-stats.vercel.app/api/pin/?username=PhanZic&repo=Discord-Account-Ruiner&show_owner=true)](https://github.com/PhanZic/Discord-Account-Ruiner) 
+[![Account Ruiner](https://github-readme-stats.vercel.app/api/pin/?username=PhanZic&repo=Discord-Account-Ruiner&show_owner=true)](https://github.com/PhanZic/Discord-Account-Ruiner) 
 [![Kahoot Bot](https://github-readme-stats.vercel.app/api/pin/?username=PhanZic&repo=Kahoot-Bot&show_owner=true)](https://github.com/PhanZic/Kahoot-Bot)
 
 
