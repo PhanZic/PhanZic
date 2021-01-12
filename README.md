@@ -1,6 +1,6 @@
 ### Hi there 👋 Im PhanZic
 
-- 🌱 I’m currently learning more C#, JavaScript, Lua & kali Linux
+- 🌱 I’m currently learning more C#, JavaScript & Lua
 - 📫 How to reach me: Discord PhanZic#0441
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=PhanZic&theme=tokyonight&show_icons=true&count_private=true)
