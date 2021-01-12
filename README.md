@@ -4,7 +4,7 @@
 - 📫 How to reach me: Discord PhanZic#0441
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=PhanZic&theme=tokyonight&show_icons=true&count_private=true)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PhanZic)](https://github.com/PhanZic/github-readme-stats)
 ## My Repos 
 [![Token Grabber](https://github-readme-stats.vercel.app/api/pin/?username=PhanZic&repo=Discord-Token-Grabber&show_owner=true)](https://github.com/PhanZic/Discord-Token-Grabber)
 [![Account Ruiner](https://github-readme-stats.vercel.app/api/pin/?username=PhanZic&repo=Discord-Account-Ruiner&show_owner=true)](https://github.com/PhanZic/Discord-Account-Ruiner) 
