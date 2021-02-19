@@ -8,7 +8,7 @@
 
 ## My Repos 
 [![Token Grabber](https://github-readme-stats.vercel.app/api/pin/?username=PhanZic&repo=Discord-Token-Grabber&show_owner=true&theme=tokyonight)](https://github.com/PhanZic/Discord-Token-Grabber)
-[![Account Ruiner](https://github-readme-stats.vercel.app/api/pin/?username=PhanZic&repo=Discord-Account-Ruiner&show_owner=true&theme=tokyonight)](https://github.com/PhanZic/Discord-Account-Ruiner) 
+[![Account Ruiner](https://github-readme-stats.vercel.app/api/pin/?username=PhanZic&repo=Account-Ruiner&show_owner=true&theme=tokyonight)](https://github.com/PhanZic/Account-Ruiner) 
 [![Kahoot Bot](https://github-readme-stats.vercel.app/api/pin/?username=PhanZic&repo=Kahoot-Bot&show_owner=true&theme=tokyonight)](https://github.com/PhanZic/Kahoot-Bot)
 
 
