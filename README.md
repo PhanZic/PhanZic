@@ -1,4 +1,4 @@
-### Hi there 👋 Im PhanZic
+### Hi Im PhanZic
 
 - 🌱 I’m currently learning: C#, C++, Python, Mysql & Unreal Engine
 - 📫 How to reach me: Discord PhanZic#0441
