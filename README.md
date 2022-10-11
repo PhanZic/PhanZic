@@ -1,6 +1,6 @@
 ### Hi Im PhanZic
 
-- 🌱 I’m currently learning: C#, C++, Python, Mysql & Unreal Engine
+- 🌱 I’m currently learning: C#, Python, Mysql & Unreal Engine
 - 📫 How to reach me: Discord PhanZic#0441 Steam <a href="https://steamcommunity.com/id/PhanZic/" target="_blank">PhanZic</a>
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=PhanZic&theme=tokyonight&show_icons=true&count_private=true)
